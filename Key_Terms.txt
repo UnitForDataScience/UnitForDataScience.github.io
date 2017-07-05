@@ -1,0 +1,10 @@
+0	0.5	component required pump form trip steam containment personnel cause water approximately section procedure condition generator one fire two per analysis 
+1	0.5	mode required personnel steam trip train approximately water component cause inoperable systems pump percent room failed components feed failure actuation 
+2	0.5	personnel water trip pump train procedure hours mode incident pressure flow time required steam feed inoperable level approximately operations test 
+3	0.5	cause operating personnel attachment discovery hours status required comp fire due facility inspection region method reportable found information submitted consequences 
+4	0.5	mode trip water required steam component surveillance train feed pump time actuation personnel specification cause procedure generator manager operating due 
+5	0.5	personnel operations enclosure condition required fire percent systems isolation specification time cause previous failure inoperable reported mode trip form revision 
+6	0.5	condition pressure water level hours surveillance due flow test design containment isolation review failure shutdown operating identified performed time required 
+7	0.5	hours cause steam required specification within component service trip pump containment water electric personnel pursuant mode channel generating reportable manager 
+8	0.5	isolation scram personnel water pressure cause level procedure required component approximately systems per section primary time occurred previous set switch 
+9	0.5	cause one mode hours two will hpci pressure due personnel component failure edison time required commonwealth pump room core specification 
